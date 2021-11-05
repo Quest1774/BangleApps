@@ -29,7 +29,7 @@
     ],
     "sortorder": -10
   },
-//benevip  
+/*benevip*/  
   { 
   "id": "sleepqualmon",
   "name": "Sleep Quality Monitor",
@@ -43,7 +43,8 @@
   "storage": [
     {"name":"sleepqualmon.wid.js","url":"widget.js"}
   ],
-},
+   "sortorder": -10  
+  },
   
   
   {
