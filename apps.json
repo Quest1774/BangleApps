@@ -30,7 +30,8 @@
     "sortorder": -10
   },
 //benevip  
-  { "id": "sleepqualmon",
+  { 
+  "id": "sleepqualmon",
   "name": "Sleep Quality Monitor",
   "shortName":"Sleep Quality Monitor",
   "icon": "widget.png",
@@ -41,7 +42,7 @@
   "readme": "README.md",
   "storage": [
     {"name":"sleepqualmon.wid.js","url":"widget.js"}
-  ]
+  ],
 },
   
   
