@@ -41,7 +41,8 @@
   "readme": "README.md",
   "storage": [
     {"name":"sleepqualmon.wid.js","url":"widget.js"}
-  ]
+  ],
+  "sortorder":-8
   },
   
   
